@@ -4,16 +4,16 @@
 
 # The System Design Primer
 
-# Intro
-## Motivation
+## Intro
+### Motivation
 
-> Learn how to design large-scale systems.
->
-> Prep for the system design interview.
+Learn how to design large-scale systems.
 
-## Study guide
+Prep for the system design interview.
 
-> Suggested topics to review based on your interview timeline (short, medium, long).
+### Study guide
+
+Suggested topics to review based on your interview timeline (short, medium, long).
 
 ![Imgur](images/OfVllex.png)
 
@@ -55,13 +55,13 @@ System design is a broad topic.  There is a **vast amount of resources scattered
 
 This repo is an **organized collection** of resources to help you learn how to build systems at scale.
 
-### Learn from the open source community
+#### Learn from the open source community
 
 This is a continually updated, open source project.
 
 [Contributions](#contributing) are welcome!
 
-# Approaching the interview
+## Approaching the interview
 ### Prep for the system design interview
 
 In addition to coding interviews, system design is a **required component** of the **technical interview process** at many tech companies.
